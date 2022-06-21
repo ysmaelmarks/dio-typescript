@@ -1,0 +1,8 @@
+o type ANY é má pratica.
+o type UNKNOWN é uma boa prática.
+o type NEVER é a boa prática de deixar evidente que o código vai ser parado abruptamente, exemplo de uso, throw()
+pode-se definir o tipo de retorno e parametros de uma FUNÇÃO.
+	function xx(a: number, b: number):number{
+};
+
+VOID é ausência de retorno. Em uma função, deve ser utilizado quando há a intenção de não devolver valores ao usuário.
